@@ -1,4 +1,4 @@
-const MainClient = require("./nanospace");
+const MainClient = require("./arcadia");
 const client = new MainClient();
 
 client.connect()
